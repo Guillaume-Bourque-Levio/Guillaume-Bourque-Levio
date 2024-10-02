@@ -1,5 +1,5 @@
 - 👋 Bonjour Je suis Guillaume Bourque @Levio
-- 👀 Je suis intéresseer par tout ce qui vole, la voile / I’m interested in anythinf tha flies and sailing 
+- 👀 Je suis intéressé par tout ce qui vole, la voile / I’m interested in anything that flies and sailing 
 - 🌱 J'apprends sur l'intelligence artificial / I’m currently learning ... AI Stuff
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me ...
