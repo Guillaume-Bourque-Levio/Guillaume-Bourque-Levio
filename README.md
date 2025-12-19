@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on new open source project
 - 📫 How to reach me ...
 - 😄 Pronouns: bougui
-- ⚡ Fun fact: Je suis pasionné de l'aéronautique et de la politique internationale.
+- ⚡ Fun fact: Je suis aussi pasionné de la politique internationale.
 
 <!---
 Guillaume-Bourque-Levio/Guillaume-Bourque-Levio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
